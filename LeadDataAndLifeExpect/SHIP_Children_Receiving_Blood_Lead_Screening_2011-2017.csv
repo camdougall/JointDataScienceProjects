@@ -1,0 +1,851 @@
+Jurisdiction,Value,Race/ ethnicity,Year,Measure
+State,65.7,All races/ ethnicities (aggregated),2017,Children receiving blood lead testing
+Allegany,77.3,All races/ ethnicities (aggregated),2017,Children receiving blood lead testing
+Anne Arundel,63.6,All races/ ethnicities (aggregated),2017,Children receiving blood lead testing
+Baltimore City,68.2,All races/ ethnicities (aggregated),2017,Children receiving blood lead testing
+Baltimore County,69.4,All races/ ethnicities (aggregated),2017,Children receiving blood lead testing
+Calvert,42.1,All races/ ethnicities (aggregated),2017,Children receiving blood lead testing
+Caroline,68.3,All races/ ethnicities (aggregated),2017,Children receiving blood lead testing
+Carroll,58.4,All races/ ethnicities (aggregated),2017,Children receiving blood lead testing
+Cecil,59.2,All races/ ethnicities (aggregated),2017,Children receiving blood lead testing
+Charles,65.7,All races/ ethnicities (aggregated),2017,Children receiving blood lead testing
+Dorchester,63,All races/ ethnicities (aggregated),2017,Children receiving blood lead testing
+Frederick,63.6,All races/ ethnicities (aggregated),2017,Children receiving blood lead testing
+Garrett,53.4,All races/ ethnicities (aggregated),2017,Children receiving blood lead testing
+Harford,61.6,All races/ ethnicities (aggregated),2017,Children receiving blood lead testing
+Howard,60.8,All races/ ethnicities (aggregated),2017,Children receiving blood lead testing
+Kent,47,All races/ ethnicities (aggregated),2017,Children receiving blood lead testing
+Montgomery,71.9,All races/ ethnicities (aggregated),2017,Children receiving blood lead testing
+Prince George's,64.3,All races/ ethnicities (aggregated),2017,Children receiving blood lead testing
+Queen Anne's,59.1,All races/ ethnicities (aggregated),2017,Children receiving blood lead testing
+Saint Mary's,59,All races/ ethnicities (aggregated),2017,Children receiving blood lead testing
+Somerset,74.8,All races/ ethnicities (aggregated),2017,Children receiving blood lead testing
+Talbot,68,All races/ ethnicities (aggregated),2017,Children receiving blood lead testing
+Washington,50.5,All races/ ethnicities (aggregated),2017,Children receiving blood lead testing
+Wicomico,60.8,All races/ ethnicities (aggregated),2017,Children receiving blood lead testing
+Worcester,57,All races/ ethnicities (aggregated),2017,Children receiving blood lead testing
+State,64.8,African American,2017,Children receiving blood lead testing
+Allegany,82.6,African American,2017,Children receiving blood lead testing
+Anne Arundel,61,African American,2017,Children receiving blood lead testing
+Baltimore City,68.6,African American,2017,Children receiving blood lead testing
+Baltimore County,70.1,African American,2017,Children receiving blood lead testing
+Calvert,45.5,African American,2017,Children receiving blood lead testing
+Caroline,62.9,African American,2017,Children receiving blood lead testing
+Carroll,55.4,African American,2017,Children receiving blood lead testing
+Cecil,61.6,African American,2017,Children receiving blood lead testing
+Charles,67.4,African American,2017,Children receiving blood lead testing
+Dorchester,64.1,African American,2017,Children receiving blood lead testing
+Frederick,56.9,African American,2017,Children receiving blood lead testing
+Garrett,66.7,African American,2017,Children receiving blood lead testing
+Harford,57.5,African American,2017,Children receiving blood lead testing
+Howard,61.9,African American,2017,Children receiving blood lead testing
+Kent,48.3,African American,2017,Children receiving blood lead testing
+Montgomery,66.7,African American,2017,Children receiving blood lead testing
+Prince George's,59.3,African American,2017,Children receiving blood lead testing
+Queen Anne's,68.9,African American,2017,Children receiving blood lead testing
+Saint Mary's,63.6,African American,2017,Children receiving blood lead testing
+Somerset,75,African American,2017,Children receiving blood lead testing
+Talbot,78.6,African American,2017,Children receiving blood lead testing
+Washington,49.6,African American,2017,Children receiving blood lead testing
+Wicomico,60.3,African American,2017,Children receiving blood lead testing
+Worcester,66.3,African American,2017,Children receiving blood lead testing
+State,41,Hispanic,2017,Children receiving blood lead testing
+Allegany,0,Hispanic,2017,Children receiving blood lead testing
+Anne Arundel,46.9,Hispanic,2017,Children receiving blood lead testing
+Baltimore City,40,Hispanic,2017,Children receiving blood lead testing
+Baltimore County,47.6,Hispanic,2017,Children receiving blood lead testing
+Calvert,0,Hispanic,2017,Children receiving blood lead testing
+Caroline,0,Hispanic,2017,Children receiving blood lead testing
+Carroll,0,Hispanic,2017,Children receiving blood lead testing
+Cecil,100,Hispanic,2017,Children receiving blood lead testing
+Charles,66.7,Hispanic,2017,Children receiving blood lead testing
+Dorchester,0,Hispanic,2017,Children receiving blood lead testing
+Frederick,46.7,Hispanic,2017,Children receiving blood lead testing
+Garrett,0,Hispanic,2017,Children receiving blood lead testing
+Harford,0,Hispanic,2017,Children receiving blood lead testing
+Howard,18.8,Hispanic,2017,Children receiving blood lead testing
+Kent,0,Hispanic,2017,Children receiving blood lead testing
+Montgomery,42.6,Hispanic,2017,Children receiving blood lead testing
+Prince George's,41,Hispanic,2017,Children receiving blood lead testing
+Queen Anne's,100,Hispanic,2017,Children receiving blood lead testing
+Saint Mary's,50,Hispanic,2017,Children receiving blood lead testing
+Somerset,0,Hispanic,2017,Children receiving blood lead testing
+Talbot,20,Hispanic,2017,Children receiving blood lead testing
+Washington,0,Hispanic,2017,Children receiving blood lead testing
+Wicomico,16.7,Hispanic,2017,Children receiving blood lead testing
+Worcester,0,Hispanic,2017,Children receiving blood lead testing
+State,63.9,White,2017,Children receiving blood lead testing
+Allegany,79.7,White,2017,Children receiving blood lead testing
+Anne Arundel,63.2,White,2017,Children receiving blood lead testing
+Baltimore City,66.5,White,2017,Children receiving blood lead testing
+Baltimore County,70,White,2017,Children receiving blood lead testing
+Calvert,41.6,White,2017,Children receiving blood lead testing
+Caroline,69.9,White,2017,Children receiving blood lead testing
+Carroll,57.7,White,2017,Children receiving blood lead testing
+Cecil,60,White,2017,Children receiving blood lead testing
+Charles,66.7,White,2017,Children receiving blood lead testing
+Dorchester,66.1,White,2017,Children receiving blood lead testing
+Frederick,65.4,White,2017,Children receiving blood lead testing
+Garrett,55.4,White,2017,Children receiving blood lead testing
+Harford,66,White,2017,Children receiving blood lead testing
+Howard,61.4,White,2017,Children receiving blood lead testing
+Kent,42.5,White,2017,Children receiving blood lead testing
+Montgomery,66.9,White,2017,Children receiving blood lead testing
+Prince George's,65,White,2017,Children receiving blood lead testing
+Queen Anne's,59.8,White,2017,Children receiving blood lead testing
+Saint Mary's,57.6,White,2017,Children receiving blood lead testing
+Somerset,72.1,White,2017,Children receiving blood lead testing
+Talbot,61.2,White,2017,Children receiving blood lead testing
+Washington,55.9,White,2017,Children receiving blood lead testing
+Wicomico,61.1,White,2017,Children receiving blood lead testing
+Worcester,53.8,White,2017,Children receiving blood lead testing
+State,65.7,Asian,2017,Children receiving blood lead testing
+Allegany,75,Asian,2017,Children receiving blood lead testing
+Anne Arundel,66.7,Asian,2017,Children receiving blood lead testing
+Baltimore City,60.8,Asian,2017,Children receiving blood lead testing
+Baltimore County,72.6,Asian,2017,Children receiving blood lead testing
+Calvert,66.7,Asian,2017,Children receiving blood lead testing
+Caroline,70.6,Asian,2017,Children receiving blood lead testing
+Carroll,60,Asian,2017,Children receiving blood lead testing
+Cecil,63.6,Asian,2017,Children receiving blood lead testing
+Charles,71,Asian,2017,Children receiving blood lead testing
+Dorchester,50,Asian,2017,Children receiving blood lead testing
+Frederick,74.2,Asian,2017,Children receiving blood lead testing
+Garrett,100,Asian,2017,Children receiving blood lead testing
+Harford,61.7,Asian,2017,Children receiving blood lead testing
+Howard,69.5,Asian,2017,Children receiving blood lead testing
+Kent,100,Asian,2017,Children receiving blood lead testing
+Montgomery,67.4,Asian,2017,Children receiving blood lead testing
+Prince George's,57.1,Asian,2017,Children receiving blood lead testing
+Queen Anne's,71.4,Asian,2017,Children receiving blood lead testing
+Saint Mary's,57.1,Asian,2017,Children receiving blood lead testing
+Somerset,72.7,Asian,2017,Children receiving blood lead testing
+Talbot,45.5,Asian,2017,Children receiving blood lead testing
+Washington,51.2,Asian,2017,Children receiving blood lead testing
+Wicomico,55,Asian,2017,Children receiving blood lead testing
+Worcester,66.7,Asian,2017,Children receiving blood lead testing
+State,64.1,All races/ ethnicities (aggregated),2016,Children receiving blood lead testing
+Allegany,76.8,All races/ ethnicities (aggregated),2016,Children receiving blood lead testing
+Anne Arundel,62.1,All races/ ethnicities (aggregated),2016,Children receiving blood lead testing
+Baltimore City,69,All races/ ethnicities (aggregated),2016,Children receiving blood lead testing
+Baltimore County,68.4,All races/ ethnicities (aggregated),2016,Children receiving blood lead testing
+Calvert,40.7,All races/ ethnicities (aggregated),2016,Children receiving blood lead testing
+Caroline,70.7,All races/ ethnicities (aggregated),2016,Children receiving blood lead testing
+Carroll,51.1,All races/ ethnicities (aggregated),2016,Children receiving blood lead testing
+Cecil,56.1,All races/ ethnicities (aggregated),2016,Children receiving blood lead testing
+Charles,61.6,All races/ ethnicities (aggregated),2016,Children receiving blood lead testing
+Dorchester,61.4,All races/ ethnicities (aggregated),2016,Children receiving blood lead testing
+Frederick,58.8,All races/ ethnicities (aggregated),2016,Children receiving blood lead testing
+Garrett,53.1,All races/ ethnicities (aggregated),2016,Children receiving blood lead testing
+Harford,55.1,All races/ ethnicities (aggregated),2016,Children receiving blood lead testing
+Howard,60.2,All races/ ethnicities (aggregated),2016,Children receiving blood lead testing
+Kent,50.9,All races/ ethnicities (aggregated),2016,Children receiving blood lead testing
+Montgomery,70.3,All races/ ethnicities (aggregated),2016,Children receiving blood lead testing
+Prince George's,61.7,All races/ ethnicities (aggregated),2016,Children receiving blood lead testing
+Queen Anne's,61.4,All races/ ethnicities (aggregated),2016,Children receiving blood lead testing
+Saint Mary's,57.5,All races/ ethnicities (aggregated),2016,Children receiving blood lead testing
+Somerset,73.1,All races/ ethnicities (aggregated),2016,Children receiving blood lead testing
+Talbot,73.4,All races/ ethnicities (aggregated),2016,Children receiving blood lead testing
+Washington,51.3,All races/ ethnicities (aggregated),2016,Children receiving blood lead testing
+Wicomico,57.2,All races/ ethnicities (aggregated),2016,Children receiving blood lead testing
+Worcester,58.7,All races/ ethnicities (aggregated),2016,Children receiving blood lead testing
+State,62.9,African American,2016,Children receiving blood lead testing
+Allegany,80.6,African American,2016,Children receiving blood lead testing
+Anne Arundel,61.7,African American,2016,Children receiving blood lead testing
+Baltimore City,68.5,African American,2016,Children receiving blood lead testing
+Baltimore County,67.7,African American,2016,Children receiving blood lead testing
+Calvert,42.8,African American,2016,Children receiving blood lead testing
+Caroline,68.5,African American,2016,Children receiving blood lead testing
+Carroll,48.6,African American,2016,Children receiving blood lead testing
+Cecil,58.2,African American,2016,Children receiving blood lead testing
+Charles,63.2,African American,2016,Children receiving blood lead testing
+Dorchester,65,African American,2016,Children receiving blood lead testing
+Frederick,53.7,African American,2016,Children receiving blood lead testing
+Garrett,77.8,African American,2016,Children receiving blood lead testing
+Harford,58.2,African American,2016,Children receiving blood lead testing
+Howard,58.4,African American,2016,Children receiving blood lead testing
+Kent,46.3,African American,2016,Children receiving blood lead testing
+Montgomery,65.6,African American,2016,Children receiving blood lead testing
+Prince George's,55.4,African American,2016,Children receiving blood lead testing
+Queen Anne's,66.1,African American,2016,Children receiving blood lead testing
+Saint Mary's,63.5,African American,2016,Children receiving blood lead testing
+Somerset,79.4,African American,2016,Children receiving blood lead testing
+Talbot,80.3,African American,2016,Children receiving blood lead testing
+Washington,51.1,African American,2016,Children receiving blood lead testing
+Wicomico,56.1,African American,2016,Children receiving blood lead testing
+Worcester,63.8,African American,2016,Children receiving blood lead testing
+State,45.5,Hispanic,2016,Children receiving blood lead testing
+Anne Arundel,41.8,Hispanic,2016,Children receiving blood lead testing
+Baltimore City,56.5,Hispanic,2016,Children receiving blood lead testing
+Baltimore County,62.7,Hispanic,2016,Children receiving blood lead testing
+Calvert,0,Hispanic,2016,Children receiving blood lead testing
+Caroline,20,Hispanic,2016,Children receiving blood lead testing
+Carroll,50,Hispanic,2016,Children receiving blood lead testing
+Cecil,33.3,Hispanic,2016,Children receiving blood lead testing
+Charles,55.6,Hispanic,2016,Children receiving blood lead testing
+Dorchester,16.7,Hispanic,2016,Children receiving blood lead testing
+Frederick,39.4,Hispanic,2016,Children receiving blood lead testing
+Harford,50,Hispanic,2016,Children receiving blood lead testing
+Howard,38.5,Hispanic,2016,Children receiving blood lead testing
+Montgomery,44.1,Hispanic,2016,Children receiving blood lead testing
+Prince George's,45.2,Hispanic,2016,Children receiving blood lead testing
+Queen Anne's,33.3,Hispanic,2016,Children receiving blood lead testing
+Saint Mary's,33.3,Hispanic,2016,Children receiving blood lead testing
+Somerset,66.7,Hispanic,2016,Children receiving blood lead testing
+Talbot,66.7,Hispanic,2016,Children receiving blood lead testing
+Washington,16.7,Hispanic,2016,Children receiving blood lead testing
+Wicomico,25,Hispanic,2016,Children receiving blood lead testing
+Worcester,0,Hispanic,2016,Children receiving blood lead testing
+State,60.7,White,2016,Children receiving blood lead testing
+Allegany,79.5,White,2016,Children receiving blood lead testing
+Anne Arundel,58.6,White,2016,Children receiving blood lead testing
+Baltimore City,66.2,White,2016,Children receiving blood lead testing
+Baltimore County,65.4,White,2016,Children receiving blood lead testing
+Calvert,40.1,White,2016,Children receiving blood lead testing
+Caroline,70.4,White,2016,Children receiving blood lead testing
+Carroll,50.8,White,2016,Children receiving blood lead testing
+Cecil,55.4,White,2016,Children receiving blood lead testing
+Charles,63,White,2016,Children receiving blood lead testing
+Dorchester,61.2,White,2016,Children receiving blood lead testing
+Frederick,60.4,White,2016,Children receiving blood lead testing
+Garrett,54,White,2016,Children receiving blood lead testing
+Harford,54.9,White,2016,Children receiving blood lead testing
+Howard,55.9,White,2016,Children receiving blood lead testing
+Kent,48.5,White,2016,Children receiving blood lead testing
+Montgomery,66.7,White,2016,Children receiving blood lead testing
+Prince George's,61.8,White,2016,Children receiving blood lead testing
+Queen Anne's,61.4,White,2016,Children receiving blood lead testing
+Saint Mary's,55.1,White,2016,Children receiving blood lead testing
+Somerset,67.8,White,2016,Children receiving blood lead testing
+Talbot,68.6,White,2016,Children receiving blood lead testing
+Washington,54.8,White,2016,Children receiving blood lead testing
+Wicomico,58.8,White,2016,Children receiving blood lead testing
+Worcester,55.9,White,2016,Children receiving blood lead testing
+State,68.5,Asian,2016,Children receiving blood lead testing
+Allegany,80,Asian,2016,Children receiving blood lead testing
+Anne Arundel,71.4,Asian,2016,Children receiving blood lead testing
+Baltimore City,65.5,Asian,2016,Children receiving blood lead testing
+Baltimore County,77.2,Asian,2016,Children receiving blood lead testing
+Calvert,66.7,Asian,2016,Children receiving blood lead testing
+Caroline,58.3,Asian,2016,Children receiving blood lead testing
+Carroll,57.1,Asian,2016,Children receiving blood lead testing
+Cecil,87.5,Asian,2016,Children receiving blood lead testing
+Charles,76.6,Asian,2016,Children receiving blood lead testing
+Dorchester,50,Asian,2016,Children receiving blood lead testing
+Frederick,68.8,Asian,2016,Children receiving blood lead testing
+Garrett,0,Asian,2016,Children receiving blood lead testing
+Harford,57.7,Asian,2016,Children receiving blood lead testing
+Howard,68.7,Asian,2016,Children receiving blood lead testing
+Kent,100,Asian,2016,Children receiving blood lead testing
+Montgomery,66.3,Asian,2016,Children receiving blood lead testing
+Prince George's,61.7,Asian,2016,Children receiving blood lead testing
+Queen Anne's,66.7,Asian,2016,Children receiving blood lead testing
+Saint Mary's,68.8,Asian,2016,Children receiving blood lead testing
+Somerset,50,Asian,2016,Children receiving blood lead testing
+Talbot,71.4,Asian,2016,Children receiving blood lead testing
+Washington,40,Asian,2016,Children receiving blood lead testing
+Wicomico,50,Asian,2016,Children receiving blood lead testing
+Worcester,63.6,Asian,2016,Children receiving blood lead testing
+State,62.6,All races/ ethnicities (aggregated),2015,Children receiving blood lead testing
+Allegany,79,All races/ ethnicities (aggregated),2015,Children receiving blood lead testing
+Anne Arundel,61,All races/ ethnicities (aggregated),2015,Children receiving blood lead testing
+Baltimore City,68.3,All races/ ethnicities (aggregated),2015,Children receiving blood lead testing
+Baltimore County,67.5,All races/ ethnicities (aggregated),2015,Children receiving blood lead testing
+Calvert,35.5,All races/ ethnicities (aggregated),2015,Children receiving blood lead testing
+Caroline,69.5,All races/ ethnicities (aggregated),2015,Children receiving blood lead testing
+Carroll,49,All races/ ethnicities (aggregated),2015,Children receiving blood lead testing
+Cecil,53.7,All races/ ethnicities (aggregated),2015,Children receiving blood lead testing
+Charles,60.9,All races/ ethnicities (aggregated),2015,Children receiving blood lead testing
+Dorchester,59.7,All races/ ethnicities (aggregated),2015,Children receiving blood lead testing
+Frederick,54.3,All races/ ethnicities (aggregated),2015,Children receiving blood lead testing
+Garrett,55.6,All races/ ethnicities (aggregated),2015,Children receiving blood lead testing
+Harford,52.7,All races/ ethnicities (aggregated),2015,Children receiving blood lead testing
+Howard,53.8,All races/ ethnicities (aggregated),2015,Children receiving blood lead testing
+Kent,54.9,All races/ ethnicities (aggregated),2015,Children receiving blood lead testing
+Montgomery,68.8,All races/ ethnicities (aggregated),2015,Children receiving blood lead testing
+Prince George's,59.9,All races/ ethnicities (aggregated),2015,Children receiving blood lead testing
+Queen Anne's,56.2,All races/ ethnicities (aggregated),2015,Children receiving blood lead testing
+Saint Mary's,60.3,All races/ ethnicities (aggregated),2015,Children receiving blood lead testing
+Somerset,71.7,All races/ ethnicities (aggregated),2015,Children receiving blood lead testing
+Talbot,70.3,All races/ ethnicities (aggregated),2015,Children receiving blood lead testing
+Washington,50.4,All races/ ethnicities (aggregated),2015,Children receiving blood lead testing
+Wicomico,55.9,All races/ ethnicities (aggregated),2015,Children receiving blood lead testing
+Worcester,58.1,All races/ ethnicities (aggregated),2015,Children receiving blood lead testing
+State,61,African American,2015,Children receiving blood lead testing
+Allegany,77.8,African American,2015,Children receiving blood lead testing
+Anne Arundel,58,African American,2015,Children receiving blood lead testing
+Baltimore City,68.5,African American,2015,Children receiving blood lead testing
+Baltimore County,67.3,African American,2015,Children receiving blood lead testing
+Calvert,28.3,African American,2015,Children receiving blood lead testing
+Caroline,74.4,African American,2015,Children receiving blood lead testing
+Carroll,48.6,African American,2015,Children receiving blood lead testing
+Cecil,56.1,African American,2015,Children receiving blood lead testing
+Charles,56.6,African American,2015,Children receiving blood lead testing
+Dorchester,57.1,African American,2015,Children receiving blood lead testing
+Frederick,54.8,African American,2015,Children receiving blood lead testing
+Garrett,50,African American,2015,Children receiving blood lead testing
+Harford,57.5,African American,2015,Children receiving blood lead testing
+Howard,50.7,African American,2015,Children receiving blood lead testing
+Kent,52.2,African American,2015,Children receiving blood lead testing
+Montgomery,62.1,African American,2015,Children receiving blood lead testing
+Prince George's,52.6,African American,2015,Children receiving blood lead testing
+Queen Anne's,50,Asian,2012,Children receiving blood lead testing
+Queen Anne's,52.3,African American,2015,Children receiving blood lead testing
+Saint Mary's,60.2,African American,2015,Children receiving blood lead testing
+Somerset,77,African American,2015,Children receiving blood lead testing
+Talbot,69.1,African American,2015,Children receiving blood lead testing
+Washington,45.4,African American,2015,Children receiving blood lead testing
+Wicomico,55.4,African American,2015,Children receiving blood lead testing
+Worcester,64.3,African American,2015,Children receiving blood lead testing
+State,78.8,Hispanic,2015,Children receiving blood lead testing
+Allegany,100,Hispanic,2015,Children receiving blood lead testing
+Anne Arundel,79.9,Hispanic,2015,Children receiving blood lead testing
+Baltimore City,84.5,Hispanic,2015,Children receiving blood lead testing
+Baltimore County,84,Hispanic,2015,Children receiving blood lead testing
+Calvert,100,Hispanic,2015,Children receiving blood lead testing
+Caroline,74.3,Hispanic,2015,Children receiving blood lead testing
+Carroll,76.9,Hispanic,2015,Children receiving blood lead testing
+Cecil,54.5,Hispanic,2015,Children receiving blood lead testing
+Charles,81.6,Hispanic,2015,Children receiving blood lead testing
+Dorchester,88.2,Hispanic,2015,Children receiving blood lead testing
+Frederick,72.8,Hispanic,2015,Children receiving blood lead testing
+Harford,76.5,Hispanic,2015,Children receiving blood lead testing
+Howard,63.8,Hispanic,2015,Children receiving blood lead testing
+Kent,70,Hispanic,2015,Children receiving blood lead testing
+Montgomery,81.4,Hispanic,2015,Children receiving blood lead testing
+Prince George's,76,Hispanic,2015,Children receiving blood lead testing
+Queen Anne's,72.4,Hispanic,2015,Children receiving blood lead testing
+Saint Mary's,72.7,Hispanic,2015,Children receiving blood lead testing
+Somerset,79.2,Hispanic,2015,Children receiving blood lead testing
+Talbot,83.6,Hispanic,2015,Children receiving blood lead testing
+Washington,60.4,Hispanic,2015,Children receiving blood lead testing
+Wicomico,80.4,Hispanic,2015,Children receiving blood lead testing
+Worcester,100,Hispanic,2015,Children receiving blood lead testing
+State,57.5,White,2015,Children receiving blood lead testing
+Allegany,79.7,White,2015,Children receiving blood lead testing
+Anne Arundel,56.2,White,2015,Children receiving blood lead testing
+Baltimore City,62.9,White,2015,Children receiving blood lead testing
+Baltimore County,63.9,White,2015,Children receiving blood lead testing
+Calvert,36.1,White,2015,Children receiving blood lead testing
+Caroline,67.8,White,2015,Children receiving blood lead testing
+Carroll,47.4,White,2015,Children receiving blood lead testing
+Cecil,52.1,White,2015,Children receiving blood lead testing
+Charles,61.9,White,2015,Children receiving blood lead testing
+Dorchester,59.7,White,2015,Children receiving blood lead testing
+Frederick,48.8,White,2015,Children receiving blood lead testing
+Garrett,56.3,White,2015,Children receiving blood lead testing
+Harford,49,White,2015,Children receiving blood lead testing
+Howard,48.1,White,2015,Children receiving blood lead testing
+Kent,54.5,White,2015,Children receiving blood lead testing
+Montgomery,59.5,White,2015,Children receiving blood lead testing
+Prince George's,58.1,White,2015,Children receiving blood lead testing
+Queen Anne's,56.7,White,2015,Children receiving blood lead testing
+Saint Mary's,59.3,White,2015,Children receiving blood lead testing
+Somerset,65.2,White,2015,Children receiving blood lead testing
+Talbot,67.2,White,2015,Children receiving blood lead testing
+Washington,52.2,White,2015,Children receiving blood lead testing
+Wicomico,55.7,White,2015,Children receiving blood lead testing
+Worcester,52.5,White,2015,Children receiving blood lead testing
+State,65.9,Asian,2015,Children receiving blood lead testing
+Allegany,50,Asian,2015,Children receiving blood lead testing
+Anne Arundel,68,Asian,2015,Children receiving blood lead testing
+Baltimore City,57.6,Asian,2015,Children receiving blood lead testing
+Baltimore County,77.1,Asian,2015,Children receiving blood lead testing
+Calvert,22.2,Asian,2015,Children receiving blood lead testing
+Caroline,57.1,Asian,2015,Children receiving blood lead testing
+Carroll,61.9,Asian,2015,Children receiving blood lead testing
+Cecil,46.7,Asian,2015,Children receiving blood lead testing
+Charles,69.2,Asian,2015,Children receiving blood lead testing
+Dorchester,57.1,Asian,2015,Children receiving blood lead testing
+Frederick,54.4,Asian,2015,Children receiving blood lead testing
+Garrett,100,Asian,2015,Children receiving blood lead testing
+Harford,65.4,Asian,2015,Children receiving blood lead testing
+Howard,60.5,Asian,2015,Children receiving blood lead testing
+Kent,40,Asian,2015,Children receiving blood lead testing
+Montgomery,66.7,Asian,2015,Children receiving blood lead testing
+Prince George's,59.5,Asian,2015,Children receiving blood lead testing
+Queen Anne's,40,Asian,2015,Children receiving blood lead testing
+Saint Mary's,58.3,Asian,2015,Children receiving blood lead testing
+Somerset,75,Asian,2015,Children receiving blood lead testing
+Talbot,85.7,Asian,2015,Children receiving blood lead testing
+Washington,45.8,Asian,2015,Children receiving blood lead testing
+Wicomico,63.9,Asian,2015,Children receiving blood lead testing
+Worcester,77.8,Asian,2015,Children receiving blood lead testing
+State,62,All races/ ethnicities (aggregated),2014,Children receiving blood lead testing
+Allegany,76.5,All races/ ethnicities (aggregated),2014,Children receiving blood lead testing
+Anne Arundel,59.2,All races/ ethnicities (aggregated),2014,Children receiving blood lead testing
+Baltimore City,70.1,All races/ ethnicities (aggregated),2014,Children receiving blood lead testing
+Baltimore County,66.4,All races/ ethnicities (aggregated),2014,Children receiving blood lead testing
+Calvert,37.7,All races/ ethnicities (aggregated),2014,Children receiving blood lead testing
+Caroline,66.2,All races/ ethnicities (aggregated),2014,Children receiving blood lead testing
+Carroll,47,All races/ ethnicities (aggregated),2014,Children receiving blood lead testing
+Cecil,53.1,All races/ ethnicities (aggregated),2014,Children receiving blood lead testing
+Charles,63.1,All races/ ethnicities (aggregated),2014,Children receiving blood lead testing
+Dorchester,63.4,All races/ ethnicities (aggregated),2014,Children receiving blood lead testing
+Frederick,47.6,All races/ ethnicities (aggregated),2014,Children receiving blood lead testing
+Garrett,53.2,All races/ ethnicities (aggregated),2014,Children receiving blood lead testing
+Harford,51.4,All races/ ethnicities (aggregated),2014,Children receiving blood lead testing
+Howard,50.3,All races/ ethnicities (aggregated),2014,Children receiving blood lead testing
+Kent,58.5,All races/ ethnicities (aggregated),2014,Children receiving blood lead testing
+Montgomery,65.8,All races/ ethnicities (aggregated),2014,Children receiving blood lead testing
+Prince George's,60.1,All races/ ethnicities (aggregated),2014,Children receiving blood lead testing
+Queen Anne's,50.1,All races/ ethnicities (aggregated),2014,Children receiving blood lead testing
+Saint Mary's,65.1,All races/ ethnicities (aggregated),2014,Children receiving blood lead testing
+Somerset,69.3,All races/ ethnicities (aggregated),2014,Children receiving blood lead testing
+Talbot,74.6,All races/ ethnicities (aggregated),2014,Children receiving blood lead testing
+Washington,48.8,All races/ ethnicities (aggregated),2014,Children receiving blood lead testing
+Wicomico,58.6,All races/ ethnicities (aggregated),2014,Children receiving blood lead testing
+Worcester,61,All races/ ethnicities (aggregated),2014,Children receiving blood lead testing
+State,61.5,African American,2014,Children receiving blood lead testing
+Allegany,77.8,African American,2014,Children receiving blood lead testing
+Anne Arundel,55.9,African American,2014,Children receiving blood lead testing
+Baltimore City,71.3,African American,2014,Children receiving blood lead testing
+Baltimore County,65.4,African American,2014,Children receiving blood lead testing
+Calvert,33.9,African American,2014,Children receiving blood lead testing
+Caroline,58.5,African American,2014,Children receiving blood lead testing
+Carroll,55.3,African American,2014,Children receiving blood lead testing
+Cecil,50,African American,2014,Children receiving blood lead testing
+Charles,61.2,African American,2014,Children receiving blood lead testing
+Dorchester,63.4,African American,2014,Children receiving blood lead testing
+Frederick,43.5,African American,2014,Children receiving blood lead testing
+Garrett,83.3,African American,2014,Children receiving blood lead testing
+Harford,53.2,African American,2014,Children receiving blood lead testing
+Howard,48.4,African American,2014,Children receiving blood lead testing
+Kent,53.2,African American,2014,Children receiving blood lead testing
+Montgomery,60.5,African American,2014,Children receiving blood lead testing
+Prince George's,52.6,African American,2014,Children receiving blood lead testing
+Queen Anne's,53.3,African American,2014,Children receiving blood lead testing
+Saint Mary's,67.4,African American,2014,Children receiving blood lead testing
+Somerset,75.1,African American,2014,Children receiving blood lead testing
+Talbot,72.5,African American,2014,Children receiving blood lead testing
+Washington,44.2,African American,2014,Children receiving blood lead testing
+Wicomico,59.6,African American,2014,Children receiving blood lead testing
+Worcester,66.7,African American,2014,Children receiving blood lead testing
+State,76.8,Hispanic,2014,Children receiving blood lead testing
+Allegany,100,Hispanic,2014,Children receiving blood lead testing
+Anne Arundel,76.2,Hispanic,2014,Children receiving blood lead testing
+Baltimore City,82.1,Hispanic,2014,Children receiving blood lead testing
+Baltimore County,78.8,Hispanic,2014,Children receiving blood lead testing
+Calvert,63.6,Hispanic,2014,Children receiving blood lead testing
+Caroline,89.7,Hispanic,2014,Children receiving blood lead testing
+Carroll,70.1,Hispanic,2014,Children receiving blood lead testing
+Cecil,56.9,Hispanic,2014,Children receiving blood lead testing
+Charles,81.3,Hispanic,2014,Children receiving blood lead testing
+Dorchester,75.4,Hispanic,2014,Children receiving blood lead testing
+Frederick,68,Hispanic,2014,Children receiving blood lead testing
+Harford,66,Hispanic,2014,Children receiving blood lead testing
+Howard,67.5,Hispanic,2014,Children receiving blood lead testing
+Kent,75,Hispanic,2014,Children receiving blood lead testing
+Montgomery,76.8,Hispanic,2014,Children receiving blood lead testing
+Prince George's,77.1,Hispanic,2014,Children receiving blood lead testing
+Queen Anne's,74.1,Hispanic,2014,Children receiving blood lead testing
+Saint Mary's,73.3,Hispanic,2014,Children receiving blood lead testing
+Somerset,78.9,Hispanic,2014,Children receiving blood lead testing
+Talbot,83.9,Hispanic,2014,Children receiving blood lead testing
+Washington,66.2,Hispanic,2014,Children receiving blood lead testing
+Wicomico,79.3,Hispanic,2014,Children receiving blood lead testing
+Worcester,82.5,Hispanic,2014,Children receiving blood lead testing
+State,56.2,White,2014,Children receiving blood lead testing
+Allegany,76.8,White,2014,Children receiving blood lead testing
+Anne Arundel,55.5,White,2014,Children receiving blood lead testing
+Baltimore City,60.2,White,2014,Children receiving blood lead testing
+Baltimore County,64.5,White,2014,Children receiving blood lead testing
+Calvert,35.9,White,2014,Children receiving blood lead testing
+Caroline,64.3,White,2014,Children receiving blood lead testing
+Carroll,46.4,White,2014,Children receiving blood lead testing
+Cecil,53.1,White,2014,Children receiving blood lead testing
+Charles,61.3,White,2014,Children receiving blood lead testing
+Dorchester,63.2,White,2014,Children receiving blood lead testing
+Frederick,41.7,White,2014,Children receiving blood lead testing
+Garrett,53.2,White,2014,Children receiving blood lead testing
+Harford,48.8,White,2014,Children receiving blood lead testing
+Howard,47.3,White,2014,Children receiving blood lead testing
+Kent,60.3,White,2014,Children receiving blood lead testing
+Montgomery,56.5,White,2014,Children receiving blood lead testing
+Prince George's,54.8,White,2014,Children receiving blood lead testing
+Queen Anne's,45.3,White,2014,Children receiving blood lead testing
+Saint Mary's,61.1,White,2014,Children receiving blood lead testing
+Somerset,59.9,White,2014,Children receiving blood lead testing
+Talbot,71.2,White,2014,Children receiving blood lead testing
+Washington,50.1,White,2014,Children receiving blood lead testing
+Wicomico,54.9,White,2014,Children receiving blood lead testing
+Worcester,57.2,White,2014,Children receiving blood lead testing
+State,63.6,Asian,2014,Children receiving blood lead testing
+Allegany,50,Asian,2014,Children receiving blood lead testing
+Anne Arundel,65.4,Asian,2014,Children receiving blood lead testing
+Baltimore City,64,Asian,2014,Children receiving blood lead testing
+Baltimore County,74.9,Asian,2014,Children receiving blood lead testing
+Calvert,33.3,Asian,2014,Children receiving blood lead testing
+Caroline,50,Asian,2014,Children receiving blood lead testing
+Carroll,53.8,Asian,2014,Children receiving blood lead testing
+Cecil,30,Asian,2014,Children receiving blood lead testing
+Charles,64.7,Asian,2014,Children receiving blood lead testing
+Dorchester,50,Asian,2014,Children receiving blood lead testing
+Frederick,61.5,Asian,2014,Children receiving blood lead testing
+Garrett,0,Asian,2014,Children receiving blood lead testing
+Harford,68.4,Asian,2014,Children receiving blood lead testing
+Howard,55,Asian,2014,Children receiving blood lead testing
+Kent,0,Asian,2014,Children receiving blood lead testing
+Montgomery,60.8,Asian,2014,Children receiving blood lead testing
+Prince George's,57.7,Asian,2014,Children receiving blood lead testing
+Queen Anne's,0,Asian,2014,Children receiving blood lead testing
+Saint Mary's,61.5,Asian,2014,Children receiving blood lead testing
+Somerset,66.7,Asian,2014,Children receiving blood lead testing
+Talbot,100,Asian,2014,Children receiving blood lead testing
+Washington,57.7,Asian,2014,Children receiving blood lead testing
+Wicomico,77.8,Asian,2014,Children receiving blood lead testing
+Worcester,61.5,Asian,2014,Children receiving blood lead testing
+State,63.1,All races/ ethnicities (aggregated),2013,Children receiving blood lead testing
+Allegany,79.2,All races/ ethnicities (aggregated),2013,Children receiving blood lead testing
+Anne Arundel,55.8,All races/ ethnicities (aggregated),2013,Children receiving blood lead testing
+Baltimore City,71.7,All races/ ethnicities (aggregated),2013,Children receiving blood lead testing
+Baltimore County,68.1,All races/ ethnicities (aggregated),2013,Children receiving blood lead testing
+Calvert,41.7,All races/ ethnicities (aggregated),2013,Children receiving blood lead testing
+Caroline,74.1,All races/ ethnicities (aggregated),2013,Children receiving blood lead testing
+Carroll,49.3,All races/ ethnicities (aggregated),2013,Children receiving blood lead testing
+Cecil,49.2,All races/ ethnicities (aggregated),2013,Children receiving blood lead testing
+Charles,60.8,All races/ ethnicities (aggregated),2013,Children receiving blood lead testing
+Dorchester,62.7,All races/ ethnicities (aggregated),2013,Children receiving blood lead testing
+Frederick,47.6,All races/ ethnicities (aggregated),2013,Children receiving blood lead testing
+Garrett,54.3,All races/ ethnicities (aggregated),2013,Children receiving blood lead testing
+Harford,54.6,All races/ ethnicities (aggregated),2013,Children receiving blood lead testing
+Howard,54.2,All races/ ethnicities (aggregated),2013,Children receiving blood lead testing
+Kent,62.6,All races/ ethnicities (aggregated),2013,Children receiving blood lead testing
+Montgomery,67.8,All races/ ethnicities (aggregated),2013,Children receiving blood lead testing
+Prince George's,60.2,All races/ ethnicities (aggregated),2013,Children receiving blood lead testing
+Queen Anne's,45.8,All races/ ethnicities (aggregated),2013,Children receiving blood lead testing
+Saint Mary's,67.3,All races/ ethnicities (aggregated),2013,Children receiving blood lead testing
+Somerset,72.4,All races/ ethnicities (aggregated),2013,Children receiving blood lead testing
+Talbot,77.1,All races/ ethnicities (aggregated),2013,Children receiving blood lead testing
+Washington,51.4,All races/ ethnicities (aggregated),2013,Children receiving blood lead testing
+Wicomico,59.7,All races/ ethnicities (aggregated),2013,Children receiving blood lead testing
+Worcester,65.1,All races/ ethnicities (aggregated),2013,Children receiving blood lead testing
+State,62.7,African American,2013,Children receiving blood lead testing
+Allegany,81,African American,2013,Children receiving blood lead testing
+Anne Arundel,52.9,African American,2013,Children receiving blood lead testing
+Baltimore City,72.5,African American,2013,Children receiving blood lead testing
+Baltimore County,68.7,African American,2013,Children receiving blood lead testing
+Calvert,44.6,African American,2013,Children receiving blood lead testing
+Caroline,72.3,African American,2013,Children receiving blood lead testing
+Carroll,51.3,African American,2013,Children receiving blood lead testing
+Cecil,50.3,African American,2013,Children receiving blood lead testing
+Charles,64,African American,2013,Children receiving blood lead testing
+Dorchester,62.3,African American,2013,Children receiving blood lead testing
+Frederick,42,African American,2013,Children receiving blood lead testing
+Garrett,33.3,African American,2013,Children receiving blood lead testing
+Harford,54.7,African American,2013,Children receiving blood lead testing
+Howard,51.4,African American,2013,Children receiving blood lead testing
+Kent,59.7,African American,2013,Children receiving blood lead testing
+Montgomery,61.1,African American,2013,Children receiving blood lead testing
+Prince George's,52.6,African American,2013,Children receiving blood lead testing
+Queen Anne's,47,African American,2013,Children receiving blood lead testing
+Saint Mary's,74.4,African American,2013,Children receiving blood lead testing
+Somerset,75.4,African American,2013,Children receiving blood lead testing
+Talbot,81.8,African American,2013,Children receiving blood lead testing
+Washington,54.1,African American,2013,Children receiving blood lead testing
+Wicomico,61.3,African American,2013,Children receiving blood lead testing
+Worcester,66.7,African American,2013,Children receiving blood lead testing
+State,74.7,Hispanic,2013,Children receiving blood lead testing
+Allegany,100,Hispanic,2013,Children receiving blood lead testing
+Anne Arundel,67.2,Hispanic,2013,Children receiving blood lead testing
+Baltimore City,78.3,Hispanic,2013,Children receiving blood lead testing
+Baltimore County,78.4,Hispanic,2013,Children receiving blood lead testing
+Calvert,52.9,Hispanic,2013,Children receiving blood lead testing
+Caroline,82.9,Hispanic,2013,Children receiving blood lead testing
+Carroll,68.3,Hispanic,2013,Children receiving blood lead testing
+Cecil,60.7,Hispanic,2013,Children receiving blood lead testing
+Charles,79.6,Hispanic,2013,Children receiving blood lead testing
+Dorchester,66.7,Hispanic,2013,Children receiving blood lead testing
+Frederick,70.8,Hispanic,2013,Children receiving blood lead testing
+Garrett,50,Hispanic,2013,Children receiving blood lead testing
+Harford,58,Hispanic,2013,Children receiving blood lead testing
+Howard,70.3,Hispanic,2013,Children receiving blood lead testing
+Kent,77.8,Hispanic,2013,Children receiving blood lead testing
+Montgomery,76.3,Hispanic,2013,Children receiving blood lead testing
+Prince George's,74.3,Hispanic,2013,Children receiving blood lead testing
+Queen Anne's,60.8,Hispanic,2013,Children receiving blood lead testing
+Saint Mary's,75.5,Hispanic,2013,Children receiving blood lead testing
+Somerset,78.9,Hispanic,2013,Children receiving blood lead testing
+Talbot,84.9,Hispanic,2013,Children receiving blood lead testing
+Washington,57.1,Hispanic,2013,Children receiving blood lead testing
+Wicomico,76.4,Hispanic,2013,Children receiving blood lead testing
+Worcester,75.6,Hispanic,2013,Children receiving blood lead testing
+State,57.7,White,2013,Children receiving blood lead testing
+Allegany,79.5,White,2013,Children receiving blood lead testing
+Anne Arundel,52.7,White,2013,Children receiving blood lead testing
+Baltimore City,63.7,White,2013,Children receiving blood lead testing
+Baltimore County,66.3,White,2013,Children receiving blood lead testing
+Calvert,37.9,White,2013,Children receiving blood lead testing
+Caroline,72.7,White,2013,Children receiving blood lead testing
+Carroll,49.8,White,2013,Children receiving blood lead testing
+Cecil,48.5,White,2013,Children receiving blood lead testing
+Charles,55.6,White,2013,Children receiving blood lead testing
+Dorchester,65.5,White,2013,Children receiving blood lead testing
+Frederick,40.5,White,2013,Children receiving blood lead testing
+Garrett,54.4,White,2013,Children receiving blood lead testing
+Harford,54.4,White,2013,Children receiving blood lead testing
+Howard,48.6,White,2013,Children receiving blood lead testing
+Kent,60.7,White,2013,Children receiving blood lead testing
+Montgomery,60.1,White,2013,Children receiving blood lead testing
+Prince George's,55.4,White,2013,Children receiving blood lead testing
+Queen Anne's,44.8,White,2013,Children receiving blood lead testing
+Saint Mary's,61.5,White,2013,Children receiving blood lead testing
+Somerset,67.2,White,2013,Children receiving blood lead testing
+Talbot,69.4,White,2013,Children receiving blood lead testing
+Washington,51.4,White,2013,Children receiving blood lead testing
+Wicomico,56.7,White,2013,Children receiving blood lead testing
+Worcester,62.8,White,2013,Children receiving blood lead testing
+State,65.4,Asian,2013,Children receiving blood lead testing
+Allegany,75,Asian,2013,Children receiving blood lead testing
+Anne Arundel,64.8,Asian,2013,Children receiving blood lead testing
+Baltimore City,74.1,Asian,2013,Children receiving blood lead testing
+Baltimore County,74,Asian,2013,Children receiving blood lead testing
+Calvert,63.6,Asian,2013,Children receiving blood lead testing
+Caroline,80,Asian,2013,Children receiving blood lead testing
+Carroll,33.3,Asian,2013,Children receiving blood lead testing
+Cecil,42.9,Asian,2013,Children receiving blood lead testing
+Charles,63,Asian,2013,Children receiving blood lead testing
+Dorchester,58.3,Asian,2013,Children receiving blood lead testing
+Frederick,58.5,Asian,2013,Children receiving blood lead testing
+Harford,69.7,Asian,2013,Children receiving blood lead testing
+Howard,60.1,Asian,2013,Children receiving blood lead testing
+Montgomery,63,Asian,2013,Children receiving blood lead testing
+Prince George's,57.8,Asian,2013,Children receiving blood lead testing
+Queen Anne's,25,Asian,2013,Children receiving blood lead testing
+Saint Mary's,46.7,Asian,2013,Children receiving blood lead testing
+Somerset,100,Asian,2013,Children receiving blood lead testing
+Talbot,87.5,Asian,2013,Children receiving blood lead testing
+Washington,70,Asian,2013,Children receiving blood lead testing
+Wicomico,58.1,Asian,2013,Children receiving blood lead testing
+Worcester,100,Asian,2013,Children receiving blood lead testing
+State,65,All races/ ethnicities (aggregated),2012,Children receiving blood lead testing
+Allegany,81.3,All races/ ethnicities (aggregated),2012,Children receiving blood lead testing
+Anne Arundel,59.4,All races/ ethnicities (aggregated),2012,Children receiving blood lead testing
+Baltimore City,73.8,All races/ ethnicities (aggregated),2012,Children receiving blood lead testing
+Baltimore County,69.4,All races/ ethnicities (aggregated),2012,Children receiving blood lead testing
+Calvert,46,All races/ ethnicities (aggregated),2012,Children receiving blood lead testing
+Caroline,75.9,All races/ ethnicities (aggregated),2012,Children receiving blood lead testing
+Carroll,50,All races/ ethnicities (aggregated),2012,Children receiving blood lead testing
+Cecil,43.6,All races/ ethnicities (aggregated),2012,Children receiving blood lead testing
+Charles,56.5,All races/ ethnicities (aggregated),2012,Children receiving blood lead testing
+Dorchester,68.9,All races/ ethnicities (aggregated),2012,Children receiving blood lead testing
+Frederick,51,All races/ ethnicities (aggregated),2012,Children receiving blood lead testing
+Garrett,64.9,All races/ ethnicities (aggregated),2012,Children receiving blood lead testing
+Harford,56.1,All races/ ethnicities (aggregated),2012,Children receiving blood lead testing
+Howard,56.5,All races/ ethnicities (aggregated),2012,Children receiving blood lead testing
+Kent,60.2,All races/ ethnicities (aggregated),2012,Children receiving blood lead testing
+Montgomery,69.6,All races/ ethnicities (aggregated),2012,Children receiving blood lead testing
+Prince George's,61.5,All races/ ethnicities (aggregated),2012,Children receiving blood lead testing
+Queen Anne's,52.5,All races/ ethnicities (aggregated),2012,Children receiving blood lead testing
+Saint Mary's,66.9,All races/ ethnicities (aggregated),2012,Children receiving blood lead testing
+Somerset,78.7,All races/ ethnicities (aggregated),2012,Children receiving blood lead testing
+Talbot,77.9,All races/ ethnicities (aggregated),2012,Children receiving blood lead testing
+Washington,56.3,All races/ ethnicities (aggregated),2012,Children receiving blood lead testing
+Wicomico,63.2,All races/ ethnicities (aggregated),2012,Children receiving blood lead testing
+Worcester,66.2,All races/ ethnicities (aggregated),2012,Children receiving blood lead testing
+State,64.5,African American,2012,Children receiving blood lead testing
+Allegany,88.4,African American,2012,Children receiving blood lead testing
+Anne Arundel,56.3,African American,2012,Children receiving blood lead testing
+Baltimore City,74.6,African American,2012,Children receiving blood lead testing
+Baltimore County,70.1,African American,2012,Children receiving blood lead testing
+Calvert,54.5,African American,2012,Children receiving blood lead testing
+Caroline,75.5,African American,2012,Children receiving blood lead testing
+Carroll,58.1,African American,2012,Children receiving blood lead testing
+Cecil,37.3,African American,2012,Children receiving blood lead testing
+Charles,57.9,African American,2012,Children receiving blood lead testing
+Dorchester,65.6,African American,2012,Children receiving blood lead testing
+Frederick,48.2,African American,2012,Children receiving blood lead testing
+Garrett,100,African American,2012,Children receiving blood lead testing
+Harford,58.5,African American,2012,Children receiving blood lead testing
+Howard,53.1,African American,2012,Children receiving blood lead testing
+Kent,60.5,African American,2012,Children receiving blood lead testing
+Montgomery,63.3,African American,2012,Children receiving blood lead testing
+Prince George's,54.8,African American,2012,Children receiving blood lead testing
+Queen Anne's,53.1,African American,2012,Children receiving blood lead testing
+Saint Mary's,69.7,African American,2012,Children receiving blood lead testing
+Somerset,75.8,African American,2012,Children receiving blood lead testing
+Talbot,76.5,African American,2012,Children receiving blood lead testing
+Washington,52.6,African American,2012,Children receiving blood lead testing
+Wicomico,60.2,African American,2012,Children receiving blood lead testing
+Worcester,71.6,African American,2012,Children receiving blood lead testing
+State,75.3,Hispanic,2012,Children receiving blood lead testing
+Allegany,50,Hispanic,2012,Children receiving blood lead testing
+Anne Arundel,70.5,Hispanic,2012,Children receiving blood lead testing
+Baltimore City,80.4,Hispanic,2012,Children receiving blood lead testing
+Baltimore County,75.9,Hispanic,2012,Children receiving blood lead testing
+Calvert,47.4,Hispanic,2012,Children receiving blood lead testing
+Caroline,86.6,Hispanic,2012,Children receiving blood lead testing
+Carroll,59.8,Hispanic,2012,Children receiving blood lead testing
+Cecil,50.9,Hispanic,2012,Children receiving blood lead testing
+Charles,71.6,Hispanic,2012,Children receiving blood lead testing
+Dorchester,82.9,Hispanic,2012,Children receiving blood lead testing
+Frederick,68.6,Hispanic,2012,Children receiving blood lead testing
+Garrett,0,Hispanic,2012,Children receiving blood lead testing
+Harford,76.7,Hispanic,2012,Children receiving blood lead testing
+Howard,72.5,Hispanic,2012,Children receiving blood lead testing
+Kent,81,Hispanic,2012,Children receiving blood lead testing
+Montgomery,77.6,Hispanic,2012,Children receiving blood lead testing
+Prince George's,74.3,Hispanic,2012,Children receiving blood lead testing
+Queen Anne's,69.4,Hispanic,2012,Children receiving blood lead testing
+Saint Mary's,78,Hispanic,2012,Children receiving blood lead testing
+Somerset,87.8,Hispanic,2012,Children receiving blood lead testing
+Talbot,82.3,Hispanic,2012,Children receiving blood lead testing
+Washington,55.1,Hispanic,2012,Children receiving blood lead testing
+Wicomico,73.5,Hispanic,2012,Children receiving blood lead testing
+Worcester,80,Hispanic,2012,Children receiving blood lead testing
+State,60.7,White,2012,Children receiving blood lead testing
+Allegany,81.4,White,2012,Children receiving blood lead testing
+Anne Arundel,56.6,White,2012,Children receiving blood lead testing
+Baltimore City,66,White,2012,Children receiving blood lead testing
+Baltimore County,68.5,White,2012,Children receiving blood lead testing
+Calvert,40.8,White,2012,Children receiving blood lead testing
+Caroline,74.1,White,2012,Children receiving blood lead testing
+Carroll,48.9,White,2012,Children receiving blood lead testing
+Cecil,45,White,2012,Children receiving blood lead testing
+Charles,53.7,White,2012,Children receiving blood lead testing
+Dorchester,74.7,White,2012,Children receiving blood lead testing
+Frederick,44.3,White,2012,Children receiving blood lead testing
+Garrett,64.8,White,2012,Children receiving blood lead testing
+Harford,55.5,White,2012,Children receiving blood lead testing
+Howard,50.8,White,2012,Children receiving blood lead testing
+Kent,61.3,White,2012,Children receiving blood lead testing
+Montgomery,65.4,White,2012,Children receiving blood lead testing
+Prince George's,59.8,White,2012,Children receiving blood lead testing
+Queen Anne's,51.5,White,2012,Children receiving blood lead testing
+Saint Mary's,63,White,2012,Children receiving blood lead testing
+Somerset,80.4,White,2012,Children receiving blood lead testing
+Talbot,76.2,White,2012,Children receiving blood lead testing
+Washington,56.6,White,2012,Children receiving blood lead testing
+Wicomico,64.1,White,2012,Children receiving blood lead testing
+Worcester,63.7,White,2012,Children receiving blood lead testing
+State,66.9,Asian,2012,Children receiving blood lead testing
+Allegany,88.9,Asian,2012,Children receiving blood lead testing
+Anne Arundel,68.7,Asian,2012,Children receiving blood lead testing
+Baltimore City,72.3,Asian,2012,Children receiving blood lead testing
+Baltimore County,72.3,Asian,2012,Children receiving blood lead testing
+Calvert,36.4,Asian,2012,Children receiving blood lead testing
+Caroline,100,Asian,2012,Children receiving blood lead testing
+Carroll,50,Asian,2012,Children receiving blood lead testing
+Cecil,71.4,Asian,2012,Children receiving blood lead testing
+Charles,61,Asian,2012,Children receiving blood lead testing
+Dorchester,70,Asian,2012,Children receiving blood lead testing
+Frederick,61.3,Asian,2012,Children receiving blood lead testing
+Garrett,100,Asian,2012,Children receiving blood lead testing
+Harford,71.4,Asian,2012,Children receiving blood lead testing
+Howard,62.4,Asian,2012,Children receiving blood lead testing
+Montgomery,65.3,Asian,2012,Children receiving blood lead testing
+Prince George's,63.1,Asian,2012,Children receiving blood lead testing
+Saint Mary's,83.3,Asian,2012,Children receiving blood lead testing
+Somerset,100,Asian,2012,Children receiving blood lead testing
+Talbot,71.4,Asian,2012,Children receiving blood lead testing
+Washington,55.6,Asian,2012,Children receiving blood lead testing
+Wicomico,62.1,Asian,2012,Children receiving blood lead testing
+Worcester,0,Asian,2012,Children receiving blood lead testing
+State,65.8,All races/ ethnicities (aggregated),2011,Children receiving blood lead testing
+Allegany,81.7,All races/ ethnicities (aggregated),2011,Children receiving blood lead testing
+Anne Arundel,58.2,All races/ ethnicities (aggregated),2011,Children receiving blood lead testing
+Baltimore City,74.8,All races/ ethnicities (aggregated),2011,Children receiving blood lead testing
+Baltimore County,70.2,All races/ ethnicities (aggregated),2011,Children receiving blood lead testing
+Calvert,48.4,All races/ ethnicities (aggregated),2011,Children receiving blood lead testing
+Caroline,76.9,All races/ ethnicities (aggregated),2011,Children receiving blood lead testing
+Carroll,51.1,All races/ ethnicities (aggregated),2011,Children receiving blood lead testing
+Cecil,42,All races/ ethnicities (aggregated),2011,Children receiving blood lead testing
+Charles,56.5,All races/ ethnicities (aggregated),2011,Children receiving blood lead testing
+Dorchester,69.1,All races/ ethnicities (aggregated),2011,Children receiving blood lead testing
+Frederick,52.5,All races/ ethnicities (aggregated),2011,Children receiving blood lead testing
+Garrett,67.4,All races/ ethnicities (aggregated),2011,Children receiving blood lead testing
+Harford,58.6,All races/ ethnicities (aggregated),2011,Children receiving blood lead testing
+Howard,58.1,All races/ ethnicities (aggregated),2011,Children receiving blood lead testing
+Kent,62,All races/ ethnicities (aggregated),2011,Children receiving blood lead testing
+Montgomery,69.8,All races/ ethnicities (aggregated),2011,Children receiving blood lead testing
+Prince George's,62.2,All races/ ethnicities (aggregated),2011,Children receiving blood lead testing
+Queen Anne's,54.5,All races/ ethnicities (aggregated),2011,Children receiving blood lead testing
+Saint Mary's,66.5,All races/ ethnicities (aggregated),2011,Children receiving blood lead testing
+Somerset,75.2,All races/ ethnicities (aggregated),2011,Children receiving blood lead testing
+Talbot,77.6,All races/ ethnicities (aggregated),2011,Children receiving blood lead testing
+Washington,58.3,All races/ ethnicities (aggregated),2011,Children receiving blood lead testing
+Wicomico,66.9,All races/ ethnicities (aggregated),2011,Children receiving blood lead testing
+Worcester,68.6,All races/ ethnicities (aggregated),2011,Children receiving blood lead testing
+State,65.4,African American,2011,Children receiving blood lead testing
+Allegany,81.4,African American,2011,Children receiving blood lead testing
+Anne Arundel,55.1,African American,2011,Children receiving blood lead testing
+Baltimore City,75.4,African American,2011,Children receiving blood lead testing
+Baltimore County,72.1,African American,2011,Children receiving blood lead testing
+Calvert,51.1,African American,2011,Children receiving blood lead testing
+Caroline,70.1,African American,2011,Children receiving blood lead testing
+Carroll,54.1,African American,2011,Children receiving blood lead testing
+Cecil,38,African American,2011,Children receiving blood lead testing
+Charles,56.6,African American,2011,Children receiving blood lead testing
+Dorchester,64.2,African American,2011,Children receiving blood lead testing
+Frederick,45.8,African American,2011,Children receiving blood lead testing
+Harford,63.6,African American,2011,Children receiving blood lead testing
+Howard,56.6,African American,2011,Children receiving blood lead testing
+Kent,52.1,African American,2011,Children receiving blood lead testing
+Montgomery,63.8,African American,2011,Children receiving blood lead testing
+Prince George's,55.1,African American,2011,Children receiving blood lead testing
+Queen Anne's,55.4,African American,2011,Children receiving blood lead testing
+Saint Mary's,70.3,African American,2011,Children receiving blood lead testing
+Somerset,71.9,African American,2011,Children receiving blood lead testing
+Talbot,76.3,African American,2011,Children receiving blood lead testing
+Washington,54.1,African American,2011,Children receiving blood lead testing
+Wicomico,62.5,African American,2011,Children receiving blood lead testing
+Worcester,68.4,African American,2011,Children receiving blood lead testing
+State,76.1,Hispanic,2011,Children receiving blood lead testing
+Anne Arundel,72.6,Hispanic,2011,Children receiving blood lead testing
+Baltimore City,82.5,Hispanic,2011,Children receiving blood lead testing
+Baltimore County,78,Hispanic,2011,Children receiving blood lead testing
+Caroline,91.3,Hispanic,2011,Children receiving blood lead testing
+Carroll,72.3,Hispanic,2011,Children receiving blood lead testing
+Cecil,47.3,Hispanic,2011,Children receiving blood lead testing
+Charles,76,Hispanic,2011,Children receiving blood lead testing
+Dorchester,85.5,Hispanic,2011,Children receiving blood lead testing
+Frederick,69.2,Hispanic,2011,Children receiving blood lead testing
+Harford,72,Hispanic,2011,Children receiving blood lead testing
+Howard,70.2,Hispanic,2011,Children receiving blood lead testing
+Kent,81.3,Hispanic,2011,Children receiving blood lead testing
+Montgomery,77.5,Hispanic,2011,Children receiving blood lead testing
+Prince George's,74.5,Hispanic,2011,Children receiving blood lead testing
+Queen Anne's,74.1,Hispanic,2011,Children receiving blood lead testing
+Saint Mary's,77.4,Hispanic,2011,Children receiving blood lead testing
+Somerset,84,Hispanic,2011,Children receiving blood lead testing
+Talbot,80.6,Hispanic,2011,Children receiving blood lead testing
+Washington,63.5,Hispanic,2011,Children receiving blood lead testing
+Wicomico,83.3,Hispanic,2011,Children receiving blood lead testing
+Worcester,73.8,Hispanic,2011,Children receiving blood lead testing
+State,61.1,White,2011,Children receiving blood lead testing
+Allegany,82,White,2011,Children receiving blood lead testing
+Anne Arundel,55.7,White,2011,Children receiving blood lead testing
+Baltimore City,66.5,White,2011,Children receiving blood lead testing
+Baltimore County,67.4,White,2011,Children receiving blood lead testing
+Calvert,44.6,White,2011,Children receiving blood lead testing
+Caroline,78.3,White,2011,Children receiving blood lead testing
+Carroll,49,White,2011,Children receiving blood lead testing
+Cecil,43.4,White,2011,Children receiving blood lead testing
+Charles,54.7,White,2011,Children receiving blood lead testing
+Dorchester,73.4,White,2011,Children receiving blood lead testing
+Frederick,47.8,White,2011,Children receiving blood lead testing
+Garrett,67,White,2011,Children receiving blood lead testing
+Harford,56.4,White,2011,Children receiving blood lead testing
+Howard,49.4,White,2011,Children receiving blood lead testing
+Kent,64,White,2011,Children receiving blood lead testing
+Montgomery,63.7,White,2011,Children receiving blood lead testing
+Prince George's,59.8,White,2011,Children receiving blood lead testing
+Queen Anne's,51.7,White,2011,Children receiving blood lead testing
+Saint Mary's,65.1,White,2011,Children receiving blood lead testing
+Somerset,76.4,White,2011,Children receiving blood lead testing
+Talbot,77.2,White,2011,Children receiving blood lead testing
+Washington,58.7,White,2011,Children receiving blood lead testing
+Wicomico,67.4,White,2011,Children receiving blood lead testing
+Worcester,67.4,White,2011,Children receiving blood lead testing
+State,66.2,Asian,2011,Children receiving blood lead testing
+Anne Arundel,64,Asian,2011,Children receiving blood lead testing
+Baltimore City,72.4,Asian,2011,Children receiving blood lead testing
+Baltimore County,69.4,Asian,2011,Children receiving blood lead testing
+Charles,60,Asian,2011,Children receiving blood lead testing
+Frederick,63.8,Asian,2011,Children receiving blood lead testing
+Harford,62.1,Asian,2011,Children receiving blood lead testing
+Howard,62.7,Asian,2011,Children receiving blood lead testing
+Montgomery,65.1,Asian,2011,Children receiving blood lead testing
+Prince George's,65.4,Asian,2011,Children receiving blood lead testing
+Saint Mary's,83.3,Asian,2011,Children receiving blood lead testing
+Wicomico,79.3,Asian,2011,Children receiving blood lead testing
